@@ -1,0 +1,9 @@
+{
+    "@@locale": "en",
+    "generalFailure": "An internal error has occurred. Please try again later. If the problem persists, please contact your administrator",
+    "readFailure": "Error reading data from storage",
+    "writeFailure": "Error writing data to storage",
+    "initializationFailure": "Local storage could not be initialized",
+    "valueNotFoundFailure": "Error value not found in local storage",
+    "keyNotFoundFailure": "Error key not found in local storage"
+}

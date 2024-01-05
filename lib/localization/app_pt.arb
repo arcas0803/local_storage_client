@@ -1,0 +1,11 @@
+
+
+{
+    "@@locale": "pt",
+    "generalFailure": "Ocorreu um erro interno. Por favor, tente novamente mais tarde. Se o problema persistir, entre em contato com o administrador do sistema",
+    "readFailure": "Ocorreu um erro ao tentar acessar os dados criptografados",
+    "writeFailure": "Ocorreu um erro ao tentar gravar os dados criptografados",
+    "initializationFailure": "Ocorreu um erro ao tentar inicializar o armazenamento seguro",
+    "valueNotFoundFailure": "Ocorreu um erro ao tentar acessar os dados criptografados. O valor não existe",
+    "keyNotFoundFailure": "Ocorreu um erro ao tentar acessar os dados criptografados. A chave não existe"
+}

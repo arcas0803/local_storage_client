@@ -1,0 +1,9 @@
+{
+    "@@locale": "es",
+    "generalFailure": "Se ha producido un error interno. Por favor, inténtelo de nuevo más tarde. Si el problema persiste, póngase en contacto con el administrador del sistema",
+    "readFailure": "Se ha producido un error al intentar acceder a los datos",
+    "writeFailure": "Se ha producido un error al intentar escribir los datos",
+    "initializationFailure": "Se ha producido un error al intentar inicializar el almacenamiento",
+    "valueNotFoundFailure": "Los datos cifrados no existen en el almacenamiento",
+    "keyNotFoundFailure": "Se ha producido un error al intentar acceder a los datos. La clave es errónea o no existe"
+}

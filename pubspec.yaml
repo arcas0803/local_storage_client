@@ -1,0 +1,31 @@
+name: local_storage_client
+description: "A new Flutter package project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  common_classes:
+    git:
+      url: https://github.com/arcas0803/common_classes.git
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  isar: ^4.0.0-dev.14
+  isar_flutter_libs: ^4.0.0-dev.14
+  intl: ^0.18.1
+  logger: ^2.0.2+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: any
+
